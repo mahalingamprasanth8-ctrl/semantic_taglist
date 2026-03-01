@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>E-Sports Event</title>
+    </head>
+    <body>
+        <center>
+        <h1>E-Sports Event Registration</h1>
+        <p>Don't miss this opportunity</p>
+        <hr>
+        </center>
+
+        <p>This is not casual gaming. Our esports event is built for players who want real competition. Register to compete in organized matches, follow official rules, and prove your skill against serious opponents. No shortcuts, no randomness — only performance matters. If you’re confident in your gameplay, step in and earn your place on the leaderboard.
+        </p>
+        <center>
+        <img src="./image/esports-social-media-post_373138-1103.JPG"><br>
+            <a href="./page/HTML_introduction.html">Registration link</a><br>
+        <h2>200K Entry Fee|Free food|</h2>
+        <main>
+            <li>Date & time 30/5/2026 3.15UTC</li>
+            <aside>
+                <img src="./image/Aside.png" width="500" height="500">
+            </aside>
+            <P>This is not casual gaming. Our esports event is built for players who want real competition. Register to compete in organized matches, follow official rules, and prove your skill against serious opponents. No shortcuts, no randomness — only performance matters. If you’re confident in your gameplay, step in and earn your place on the leaderboard.
+            </P>
+                <STRong>
+                <li>First Price 5000USD</li>
+
+                <li>Second Price 4000USD</li>
+
+                <li>Third Price 3000USD</li>
+
+                </STRong>
+            <h3>Conducting Games List</h3>
+            <img src="./image/images.png"><br><img src="./image/images (1).png"><br><img src="./image/download.png"><br>
+            <img src="./image/Fortnite-Logo-1.png" width="300" height="150">
+            <hr>
+        </main>
+        <footer>
+            <h4>All The Best For Your Gaming Career</h4>
+            <a href="./page/HTML_ABOUT.html">ABOUT</a>|
+            <a href="./page/HTML_CONTACT.html">CONTACT</a>|
+            <a href="#">CLICK TO TOP PAGE</a>
+        </footer>
+        </center>
+    </body>
+</html>
